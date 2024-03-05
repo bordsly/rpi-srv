@@ -1,2 +1,2 @@
-# rp-srv
+# rpi-srv
 rpi-server project
